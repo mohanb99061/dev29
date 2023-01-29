@@ -1,2 +1,3 @@
 Git is fast control version.
 Git is powerful tool.
+Git is fast.
