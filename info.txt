@@ -1,3 +1,5 @@
 Git is fast control version.
 This is second task.
 Git is widely used.
+Git is powerful tool.
+Git is fast.
