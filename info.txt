@@ -1,1 +1,3 @@
-Git is fast control version
+Git is fast control version.
+This is second task.
+Git is widely used.
