@@ -3,4 +3,8 @@ This is second task.
 Git is widely used.
 Git is powerful tool.
 Git is fast.
+<<<<<<< HEAD
 Git is easy to work with.
+=======
+Git is a nice tool.
+>>>>>>> 63e4c1325a1dca9dd0b63da1360c78c85729fcc9
